@@ -10,7 +10,7 @@
   "devDependencies": {
     "@rollup/plugin-replace": "^5.0.7",
     "typescript": "5.4.5",
-    "vite": "^5.3.2"
+    "vite": "^5.4.21"
   },
   "dependencies": {
     "@tanstack/table-core": "^8.21.3",

@@ -12,7 +12,7 @@
     "@faker-js/faker": "^8.4.1",
     "serve": "^14.2.3",
     "typescript": "5.4.5",
-    "vite": "^5.3.2"
+    "vite": "^5.4.21"
   },
   "dependencies": {
     "@tanstack/match-sorter-utils": "^8.19.4",
